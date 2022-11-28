@@ -4,8 +4,9 @@ We will follow all the steps of a Data Science lifecycle from data collection to
 
 
 
+
 Dataset:
-Column ID	Column Name	Data type	Description	Masked
+    Column ID	Column Name	Data type	Description	Masked
 0	User_ID	int64	Unique Id of customer	False
 1	Product_ID	object	Unique Id of product	False
 2	Gender	object	Sex of customer	False
@@ -21,9 +22,11 @@ Column ID	Column Name	Data type	Description	Masked
 
 
 
+
 Motivation:
 Predicting customer's behaviour is one of the most popular applications of Machine Learning in various fields like Finance, Sales, Marketing.
 Building such predictive models, we can predict the impact of the decisions taken on the growth of our organization.
+
 
 
 
